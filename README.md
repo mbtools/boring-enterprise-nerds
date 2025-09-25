@@ -2,6 +2,8 @@
 
 [Boring Enterprise Nerds](https://boringenterprisenerds.com) want to show Markdown in ABAP
 
+apm is a package manager 📦 for ABAP applications and modules, a website 🌐, and a registry 📑
+
 ```abap
 REPORT z_ben_markdown.
 
