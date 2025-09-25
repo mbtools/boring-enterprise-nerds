@@ -28,6 +28,6 @@ START-OF-SELECTION.
   ENDTRY.
 ```
 
-![ben](ben_system_banner.jpg)
+![ben](https://raw.githubusercontent.com/mbtools/boring-enterprise-nerds/main/ben_system_banner.jpg)
 
-![toronto](Toronto_Background.jpg)
+![toronto](https://raw.githubusercontent.com/mbtools/boring-enterprise-nerds/main/Toronto_Background.jpg)
